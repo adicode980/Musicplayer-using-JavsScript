@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:  border-box;
+	font-family: 'Lobster', cursive;
+}
+
+body{
+background-color: #2C3E50 ;
+
+}
+
+h1
+{
+	color: #CFD12A ;
+}
+
+main{
+	width: 90%;
+	height:600px;
+	margin:auto;
+	border: 1px solid #FBFF00 ;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap:wrap;
+}
+div{
+	width: 30%;
+	height:160px;
+	border-radius: 10px;
+	padding: 30px;
+	cursor:pointer;
+	
+
+}
+
+.a{
+	background-image:url("images/1.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+
+.b{
+	background-image:url("images/2.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.c{
+	background-image:url("images/3.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.d{
+	background-image:url("images/4.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.e{
+	background-image:url("images/5.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.f{
+	background-image:url("images/6.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.g{
+	background-image:url("images/7.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+.h{
+	background-image:url("images/8.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.i{
+	background-image:url("images/9.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
